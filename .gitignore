@@ -1,0 +1,8 @@
+.DS_Store
+
+# NetBeans-generated build output
+/build/
+/dist/
+
+# Per-user NetBeans configuration
+/nbproject/private/
